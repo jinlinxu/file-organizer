@@ -1,0 +1,4 @@
+C:\Users\kepatel\Documents\GitHub\FileOrganizer\MDOrganizer\bin\Debug\MDOrganizer.exe
+C:\Users\kepatel\Documents\GitHub\FileOrganizer\MDOrganizer\bin\Debug\MDOrganizer.pdb
+C:\Users\kepatel\Documents\GitHub\FileOrganizer\MDOrganizer\obj\Debug\MDOrganizer.exe
+C:\Users\kepatel\Documents\GitHub\FileOrganizer\MDOrganizer\obj\Debug\MDOrganizer.pdb
